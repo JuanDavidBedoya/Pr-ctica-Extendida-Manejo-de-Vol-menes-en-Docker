@@ -41,7 +41,7 @@ Creamos otro contenedor:
 <h4><img width="1141" height="128" alt="image" src="https://github.com/user-attachments/assets/4fc7c427-35f3-4ada-a93f-31160ea72372" /></h4>
 <h4><img width="1278" height="629" alt="image" src="https://github.com/user-attachments/assets/468af742-7467-4671-b232-4e432c11605a" /></h4>
 
-<h2>Reto Adicional: MariaDB + phpMyAdmin con Persistencia</h2>
+<h2>2. Reto Adicional: MariaDB + phpMyAdmin con Persistencia</h2>
 
 <h3>2.1. Crear archivo docker-compose.yml</h3>
 <h4><img width="504" height="85" alt="image" src="https://github.com/user-attachments/assets/66f84bdf-045b-4fb1-8cd6-786e0529e66c" /></h4>
